@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+
+
+
+clear
+clear
+
+gcc -c $CFILE
